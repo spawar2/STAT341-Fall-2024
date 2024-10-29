@@ -25,3 +25,7 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 
 Aug-22.R, Correlation.R, TTest.R: Descriptive statistics (Mean, Mode, Median, Standard Deviation, Variance) variable R functions. selected function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot).
 TTest.pdf: Normal Distribution plot.
+Correlation-Coefficient-Value.png
+Interquartile Range.png
+T-Distribution.png
+Ttest.pdf
