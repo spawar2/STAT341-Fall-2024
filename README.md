@@ -1,7 +1,7 @@
 # STAT341-Fall-2024
 Date created/updated: December, 9, 2024.
 Learning Objectives [# STAT 301 3 Credits, Probability & Statistics:](https://pawar1550.wixsite.com/claflin-courses/biol341)
-Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, variable types, distribution properties, discrete & continuous types, R functions, probability distributions, ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square test, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA). Data wrangling and handling.
+Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, variable types, distribution properties, discrete & continuous types, R functions, probability distributions, ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square test, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA). Data wrangling and handling. Custom functions in R.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Data analysis:](https://youtu.be/WIvehDeVRak)
